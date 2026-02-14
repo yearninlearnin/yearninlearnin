@@ -1,4 +1,4 @@
-<h1>I'm <a href="https://linkedin.com/">Anthony</a></h1> Linux enthusiast | Cloud Engineer. 
+<h1>I'm Anthony, <a href="https://linkedin.com/">Linux enthusiast | Cloud Engineer</a></h1>
 
 <h2>  Information Technology Projects:</h2>
 
