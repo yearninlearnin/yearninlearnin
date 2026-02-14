@@ -1,4 +1,4 @@
-<h1>I'm Anthony,Linux enthusiast , Cloud Engineer <a href="https://linkedin.com/">Let's Connect</a></h1>
+<h1>I'm Anthony, Linux enthusiast, Cloud Engineer <a href="https://linkedin.com/">Connect</a></h1>
 
 <h2>  Information Technology Projects:</h2>
 
