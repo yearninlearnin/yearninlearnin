@@ -1,4 +1,4 @@
-<h1>I'm Anthony, <a href="https://linkedin.com/in/anthonydbailey">Linux enthusiast | Cloud Engineer</a></h1>
+<h1>I'm Anthony, <a href="https://linkedin.com/in/anthonydbailey">Linux enthusiast | Learning Cool stuff</a></h1>
 
 <h2>  Information Technology Projects:</h2>
 
